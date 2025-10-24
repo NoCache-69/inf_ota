@@ -1,1 +1,10 @@
-hello
+Device: OnePlus Nord CE2 Lite 5G
+Device code name : oscaro
+Device maintainer: Chethan(No_Cache)
+
+Date - 24/10/2025
+===============
+- Synced with latest source
+- Updated display and graphics props from fogos
+- Import media configs from CPH2467
+- Update vendor blobs from CPH2467
