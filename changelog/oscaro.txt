@@ -2,6 +2,10 @@ Device: OnePlus Nord CE2 Lite 5G
 Device code name : oscaro
 Device maintainer: Chethan(No_Cache)
 
+Date - 26/10/2025
+===============
+- Added KSU-Next
+
 Date - 24/10/2025
 ===============
 - Synced with latest source
