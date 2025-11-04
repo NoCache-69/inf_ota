@@ -2,6 +2,12 @@ Device: OnePlus Nord CE2 Lite 5G
 Device code name : oscaro
 Device maintainer: Chethan(No_Cache)
 
+Date - 24/10/2025
+===============
+- Synced with latest source
+- Fixed dolby crash
+- Updated firmware version to CPH2381_14.0.0.2400(EX01)
+
 Date - 26/10/2025
 ===============
 - Added KSU-Next
