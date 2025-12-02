@@ -2,6 +2,11 @@ Device: OnePlus Nord CE2 Lite 5G
 Device code name : oscaro
 Device maintainer: Chethan(No_Cache)
 
+Date - 02/12/2025
+===============
+- Synced with latest source
+- Added offline charging support
+
 Date - 04/11/2025
 ===============
 - Synced with latest source
