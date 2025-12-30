@@ -5,6 +5,12 @@ Device maintainer: Chethan(No_Cache)
 Date - 11/12/2025
 ===============
 - Synced with latest source
+- Initial A16-QPR1 release
+- Updated some media configs
+
+Date - 11/12/2025
+===============
+- Synced with latest source
 - Dropped LiveDisplay
 
 Date - 02/12/2025
