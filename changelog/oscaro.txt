@@ -2,7 +2,12 @@ Device: OnePlus Nord CE2 Lite 5G
 Device code name : oscaro
 Device maintainer: Chethan(No_Cache)
 
-Date - 11/12/2025
+Date - 16/02/2026
+===============
+- Synced with latest source
+- Merged BPF patches from kernel v5.10
+
+Date - 31/12/2025
 ===============
 - Synced with latest source
 - Initial A16-QPR1 release
